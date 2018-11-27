@@ -2769,8 +2769,8 @@
 			padding: 1.75em 1.75em 0.1em 1.75em;
 			background-color: #fff;
 			border-radius: 7px;
-			margin: 1.5em 3em 1.5em 0;
-			width: calc(50% - 1.5em);
+			/* margin: 1.5em 3em 1.5em 0;
+			width: calc(50% - 1.5em); */
 		}
 
 			.features article.ci p {
